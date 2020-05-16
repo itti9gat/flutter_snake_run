@@ -1,16 +1,15 @@
-# snake_run
+# Snake Run
 
-A new Flutter project.
+![Page 1](https://raw.githubusercontent.com/itti9gat/flutter_snake_run/master/ss/ss_01.png)
+![Page 2](https://raw.githubusercontent.com/itti9gat/flutter_snake_run/master/ss/ss_02.png)
+![Page 3](https://raw.githubusercontent.com/itti9gat/flutter_snake_run/master/ss/ss_03.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Usage
+Make sure you have Flutter installed on your local machine. 
+For more instructions on how to install flutter, look [here](https://flutter.io/docs/get-started/install).
+```
+- git clone https://github.com/itti9gat/flutter_snake_run.git
+- cd flutter_snake_run
+- flutter run
+```
